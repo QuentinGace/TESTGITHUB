@@ -6,7 +6,7 @@
 #include <stdexcept> //provides exceptions
 #include <vector>  // std vector upon which our Vector is based
 
-// Quentin Luc Parme
+// Quentin Luc Parme Here we go
 /**
 *  A vector class for data storage of a 1D array of doubles
 *  \n The implementation is derived from the standard container vector std::vector
